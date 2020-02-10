@@ -13,7 +13,7 @@
 
  	// if statement 
  	if(name = 'Ruth')
- 		alert('Roshan has a crush on you :)');
+ 		alert('Dan has a crush on you :)');
 
  }
 

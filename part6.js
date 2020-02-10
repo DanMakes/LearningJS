@@ -1,8 +1,8 @@
 // Data Types
 
  let Age = 18; // number
- let Name = 'Roshan' // string
- let fullName = {first: 'Roshan', last: 'Lamichhane'}; // object
+ let Name = 'Dan' // string
+ let fullName = {first: 'Dan', last: 'Makes'}; // object
  let truth = false; // boolen
  let list = ['macbook pro', 'iphone', 'watch', 'mustang']; // array
  let random; // undefined 

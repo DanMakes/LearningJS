@@ -1,8 +1,8 @@
 // Objects in javascript
 
 let student = {
-	first: 'Roshan',
-	last: 'Lamichhane', 
+	first: 'Dan',
+	last: 'Makes', 
 	age: 25, // Not real age
 	height: 72, // in inches
 	studentInfo: function(){
